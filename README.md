@@ -14,6 +14,16 @@ Real-time Availability: View parking space availability in real-time for accurat
 Reservation Management: Manage your reservations, make changes, and cancel bookings if necessary.
 Rating and Reviews: Leave feedback and ratings for parking spaces to help others make informed decisions.
 
+**Preview**
+![image](https://github.com/KSKDhasan/ParkQwik--Website/assets/130535979/9594e537-e826-4ceb-908b-ecdc32edd16a)
+![image](https://github.com/KSKDhasan/ParkQwik--Website/assets/130535979/72613297-71d7-4f4c-b81d-7ca40979d706)
+![image](https://github.com/KSKDhasan/ParkQwik--Website/assets/130535979/43b3b034-70b5-406f-8dd4-b3c18a46cb8f)
+![image](https://github.com/KSKDhasan/ParkQwik--Website/assets/130535979/a7d4afb6-d2b8-4e97-8381-c005c5377d02)
+![image](https://github.com/KSKDhasan/ParkQwik--Website/assets/130535979/c4172149-8c39-4b31-a6d7-971895470432)
+![image](https://github.com/KSKDhasan/ParkQwik--Website/assets/130535979/2667accd-19b9-4dbf-b7c8-c08d2eaab87f)
+![image](https://github.com/KSKDhasan/ParkQwik--Website/assets/130535979/5375a247-943c-47e9-95f6-f2c1cfae069a)
+![image](https://github.com/KSKDhasan/ParkQwik--Website/assets/130535979/78f32f5d-bcfb-4645-bac6-27819329aca1)
+
 Contributing
 ParkQwik is an open-source project, and we welcome contributions from the community. If you would like to contribute to the website, please follow the guidelines outlined in the CONTRIBUTING.md file.
 
